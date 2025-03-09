@@ -1,4 +1,4 @@
-# Space Invaders
+# Space Invaders like game
 Simple game based on Space Invaders game.
 
 ![diagram](gameScreenshot.png)
